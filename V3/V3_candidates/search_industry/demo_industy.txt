@@ -1,0 +1,21 @@
+{
+    "search": [
+        {
+            "relation": "AND",
+            "condition": [
+                {
+                    "key": "industries",
+                    "value": {
+                        "data": [
+                            "131",
+                            "130",
+                            "129"
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "module": "CANDIDATE",
+    "timezone": "Asia/Shanghai"
+}

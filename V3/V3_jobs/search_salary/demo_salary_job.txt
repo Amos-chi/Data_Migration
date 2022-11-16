@@ -1,0 +1,39 @@
+{
+    "search": [
+        {
+            "relation": "AND",
+            "condition": [
+                {
+                    "key": "salary",
+                    "value": {
+                        "data": {
+                            "gte": 300,
+                            "lte": 5000
+                        },
+                        "currency": "USD",
+                        "timeUnit": "YEAR"
+                    },
+                    "type": "FULL_TIME"
+                }
+            ]
+        }
+    ],
+    "module": "JOB",
+    "timezone": "Asia/Shanghai",
+    "filter": [
+        {
+            "relation": "AND",
+            "condition": [
+                {
+                    "key": "jobType",
+                    "value": {
+                        "data": [
+                            "FULL_TIME"
+                        ],
+                        "relation": "OR"
+                    }
+                }
+            ]
+        }
+    ]
+}

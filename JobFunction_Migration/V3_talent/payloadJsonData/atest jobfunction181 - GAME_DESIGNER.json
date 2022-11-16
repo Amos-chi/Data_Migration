@@ -1,0 +1,41 @@
+{
+    "lastName": "GAME_DESIGNER",
+    "payType": "YEARLY",
+    "skills": null,
+    "creationTalentType": "CREATE_WITHOUT_RESUME",
+    "resumes": null,
+    "workAuthorization": null,
+    "experiences": null,
+    "educations": null,
+    "sourcingChannel": "LINKEDIN",
+    "currentLocation": {
+        "city": "Arcadia",
+        "province": "Louisiana",
+        "country": "United States",
+        "location": ""
+    },
+    "additionalInfoId": "",
+    "currency": 0,
+    "contacts": [
+        {
+            "type": "PHONE",
+            "contact": "17764210002",
+            "sort": 1
+        }
+    ],
+    "salaryRange": null,
+    "projects": null,
+    "languages": [
+        {
+            "enumId": "40"
+        }
+    ],
+    "firstName": "atest jobfunction181 - ",
+    "industries": null,
+    "photoUrl": null,
+    "jobFunctions": [
+        {
+            "enumId": "181"
+        }
+    ]
+}

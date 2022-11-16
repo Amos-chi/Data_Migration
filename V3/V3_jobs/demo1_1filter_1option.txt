@@ -1,0 +1,38 @@
+{
+    "search": [
+        {
+            "relation": "AND",
+            "condition": [
+                {
+                    "key": "locations",
+                    "value": {
+                        "data": [
+                            {
+                                "location": "wuhan"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "module": "JOB",
+    "timezone": "Asia/Shanghai",
+    "filter": [
+        {
+            "relation": "AND",
+            "condition": [
+                {
+                    "key": "jobType",
+                    "value": {
+                        "data": [
+                            "FULL_TIME",
+                            "CONTRACT"
+                        ],
+                        "relation": "OR"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,63 @@
+{
+    "company": {
+        "id": "1538",
+        "name": "atest company01 0928 f",
+        "industry": "AUTOMOTIVE"
+    },
+    "department": "",
+    "jobType": "CONTRACT",
+    "title": "atest jobfunction71 - ENGINEERING_AND_TECHNICAL.VIRTUALIZATION",
+    "startDate": "",
+    "endDate": "",
+    "jdText": "",
+    "publicDesc": null,
+    "jdUrl": "",
+    "clientContactCategory": "HIRING_MANAGER",
+    "clientContactName": {
+        "id": "2796",
+        "name": "张强壮"
+    },
+    "locations": [
+        {
+            "addressLine": null,
+            "city": "Acampo",
+            "country": "United States",
+            "province": "California",
+            "location": null
+        }
+    ],
+    "jobFunctions": [
+        {
+            "enumId": "71"
+        }
+    ],
+    "requiredSkills": [
+        {
+            "skillName": "asdasda"
+        }
+    ],
+    "assignedUsers": [
+        {
+            "firstName": "private4",
+            "lastName": "Super",
+            "permission": "AM",
+            "userId": 911,
+            "username": "private4"
+        }
+    ],
+    "requiredLanguages": null,
+    "preferredLanguages": null,
+    "preferredSkills": null,
+    "salaryRange": null,
+    "billRange": null,
+    "payType": "YEARLY",
+    "visible": false,
+    "currency": 0,
+    "openings": "5",
+    "minimumDegreeLevel": null,
+    "preferredDegrees": null,
+    "experienceYearRange": null,
+    "code": "",
+    "uuid": null,
+    "maxSubmissions": 0
+}

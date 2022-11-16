@@ -1,0 +1,22 @@
+{
+    "search": [
+        {
+            "relation": "AND",
+            "condition": [
+                {
+                    "key": "currentSalary",
+                    "value": {
+                        "data": {
+                            "gte": 3000,
+                            "lte": 5000
+                        },
+                        "currency": "USD",
+                        "timeUnit": "HOUR"
+                    }
+                }
+            ]
+        }
+    ],
+    "module": "CANDIDATE",
+    "timezone": "Asia/Shanghai"
+}

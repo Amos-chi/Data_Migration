@@ -1,0 +1,308 @@
+['Jiuquan', '酒泉市'] : 417
+['Zhangye', '张掖市'] : 417
+['Pingliang', '平凉市'] : 417
+['Wuwei', '武威市'] : 417
+['Lanzhou', '兰州市'] : 417
+['Dingxi', '定西市'] : 417
+['Baiyin', '白银市'] : 417
+['Linxia Hui Autonomous Prefecture', '临夏回族自治州'] : 417
+['Jinchang', '金昌市'] : 417
+['Gannan Tibetan Autonomous Prefecture', '甘南藏族自治州'] : 417
+['Qingyang', '庆阳市'] : 417
+['Longnan', '陇南市'] : 417
+['Jiayuguan', '嘉峪关市'] : 417
+['Lhasa', '拉萨市'] : 417
+['Nakchu', '那曲市'] : 417
+['Ali Area', '阿里地区'] : 417
+['Changdu', '昌都市'] : 417
+['Linzhi', '林芝市'] : 417
+['Shigatse', '日喀则市'] : 417
+['Shannan', '山南市'] : 417
+['Shihezi', '石河子市'] : 417
+['Karamay', '克拉玛依市'] : 417
+['Beitun', '北屯市'] : 417
+['Turpan', '吐鲁番市'] : 417
+['Tumouk', '图木舒克市'] : 417
+['Korda', '可克达拉市'] : 417
+['Bortala Mongolian Autonomous Prefecture', '博尔塔拉蒙古自治州'] : 417
+['Hami', '哈密市'] : 417
+['Tacheng Area', '塔城地区'] : 200
+['Bayingoleng Mongolian Autonomous Prefecture', '巴音郭楞蒙古自治州'] : 417
+['Kunyu', '昆玉市'] : 417
+['Shuanghe', '双河市'] : 417
+['Alar', '阿拉尔市'] : 417
+['Aksu Area', '阿克苏地区'] : 200
+['Tiemen Guan', '铁门关市'] : 417
+['Kizilu Kirkan Autonomous Prefecture', '克孜勒苏柯尔克孜自治州'] : 417
+['Yili Kazakh Autonomous Prefecture', '伊犁哈萨克自治州'] : 417
+['Xinxing', '新星市'] : 417
+['Huyanghe', '胡杨河市'] : 417
+['Changji Hui Autonomous Prefecture', '昌吉回族自治州'] : 417
+['Wujiaqu', '五家渠市'] : 417
+['Zunyi', '遵义市'] : 417
+['Guiyang', '贵阳市'] : 417
+['Bijie', '毕节市'] : 417
+['Tongren', '铜仁市'] : 417
+['Liupanshui', '六盘水市'] : 417
+['Qiannan Buyi Miao Autonomous Prefecture', '黔南布依族苗族自治州'] : 417
+['Buyi And Miao Autonomous Prefecture In Southwest Guizhou', '黔西南布依族苗族自治州'] : 417
+['Qiandongnan Miao And Dong Autonomous Prefecture', '黔东南苗族侗族自治州'] : 417
+['Zigong', '自贡市'] : 417
+['Yibin', '宜宾市'] : 417
+['Suining', '遂宁市'] : 417
+["Guang'an", '广安市'] : 417
+['Mianyang', '绵阳市'] : 417
+['Luzhou', '泸州市'] : 417
+['Leshan', '乐山市'] : 417
+['Guangyuan', '广元市'] : 417
+['Deyang', '德阳市'] : 417
+['Dazhou', '达州市'] : 417
+['Meishan', '眉山市'] : 417
+['Ziyang', '资阳市'] : 417
+['Panzhihua', '攀枝花市'] : 417
+['Bazhong', '巴中市'] : 417
+['Aba Tibetan And Qiang Autonomous Prefecture', '阿坝藏族羌族自治州'] : 417
+['Ganzi Tibetan Autonomous Prefecture', '甘孜藏族自治州'] : 417
+['Liangshan Yi Autonomous Prefecture', '凉山彝族自治州'] : 417
+["Ya'An", '雅安市'] : 417
+['Jianning', '株洲市'] : 417
+['Yongzhou', '永州市'] : 417
+['Changde', '常德市'] : 417
+['Loudi', '娄底市'] : 417
+['Huaihua', '怀化市'] : 417
+['Hengyang', '衡阳市'] : 417
+['Chenzhou', '郴州市'] : 417
+['Yueyang', '岳阳市'] : 417
+['Xiangtan', '湘潭市'] : 417
+['Xiangxi Tujia And Miao Autonomous Prefecture', '湘西土家族苗族自治州'] : 417
+['Shaoyang', '邵阳市'] : 417
+['Zhangjiajie', '张家界市'] : 417
+['Yiyang', '益阳市'] : 417
+['Zhumadian', '驻马店市'] : 417
+['Shangqiu', '商丘市'] : 417
+['Zhoukou', '周口市'] : 417
+['Zhengzhou', '郑州市'] : 417
+['Anyang', '安阳市'] : 417
+['Sanmenxia', '三门峡市'] : 417
+['Puyang Chengguanzhen', '濮阳城关镇'] : 417
+['Pingdingshan', '平顶山市'] : 417
+['Nanyang', '南阳市'] : 417
+['Luoyang', '洛阳市'] : 417
+['Kaifeng', '开封市'] : 417
+['Hebi', '鹤壁市'] : 417
+['Xuchang', '许昌市'] : 417
+['Xinxiang', '新乡市'] : 417
+['Jiyuan', '济源市'] : 417
+['Puyang', '濮阳市'] : 417
+['Yuxi', '玉溪市'] : 417
+['Zhaotong', '昭通市'] : 417
+['Qujing', '曲靖市'] : 417
+['Kunming', '昆明市'] : 417
+['Dali', '大理市'] : 417
+['Dehong Dai And Jingpo Autonomous Prefecture', '德宏傣族景颇族自治州'] : 417
+['Wenshan Zhuang And Miao Autonomous Prefecture', '文山壮族苗族自治州'] : 417
+['Nujiang Yi Autonomous Prefecture', '怒江傈僳族自治州'] : 417
+['Xishuangbanna Dai Autonomous Prefecture', '西双版纳傣族自治州'] : 417
+['Baoshan', '保山市'] : 417
+['Chuxiong Yi Autonomous Prefecture', '楚雄彝族自治州'] : 417
+['Diqing Tibetan Autonomous Prefecture', '迪庆藏族自治州'] : 417
+['Lijiang', '丽江市'] : 417
+["P'Er", '普洱市'] : 200
+['Honghe Hani And Yi Autonomous Prefecture', '红河哈尼族彝族自治州'] : 417
+['Dali Bai Autonomous Prefecture', '大理白族自治州'] : 417
+['Lincang', '临沧市'] : 417
+['Zhenjiang', '镇江市'] : 417
+['Yancheng', '盐城市'] : 417
+['Xuzhou', '徐州市'] : 417
+['Xinpu', '连云港'] : 417
+['Taizhou', '泰州市'] : 417
+['Changzhou', '常州市'] : 417
+['Huaian', '淮安市'] : 417
+['Suqian', '宿迁市'] : 417
+['Zhaoqing', '肇庆市'] : 417
+['Zhanjiang', '湛江市'] : 417
+['Yunfu', '云浮市'] : 417
+['Heyuan', '河源市'] : 417
+['Zhuhai', '珠海市'] : 417
+['Shaoguan', '韶关市'] : 417
+['Jieyang', '揭阳市'] : 417
+['Qingyuan', '清远市'] : 417
+['Maoming', '茂名市'] : 417
+['Yangjiang', '阳江市'] : 417
+['Foshan', '佛山市'] : 417
+['Dongguan', '东莞市'] : 417
+['Chaozhou', '潮州市'] : 417
+['Zhongshan', '中山市'] : 417
+['Shanwei', '汕尾市'] : 417
+['Meizhou', '梅州市'] : 417
+['Zhangzhou', '漳州市'] : 417
+['Xiamen', '厦门市'] : 417
+['Sanming', '三明市'] : 417
+['Longyan', '龙岩市'] : 417
+['Ningde', '宁德市'] : 417
+['Fuzhou', '福州市'] : 200
+['Putian', '莆田市'] : 417
+['Nanping', '南平市'] : 417
+['Weifang', '潍坊市'] : 417
+['Rizhao', '日照市'] : 417
+['Linyi', '临沂市'] : 417
+['Liaocheng', '聊城市'] : 417
+['Jining', '济宁市'] : 417
+['Jinan', '济南市'] : 417
+['Heze', '菏泽市'] : 417
+['Dongying', '东营市'] : 417
+['Dezhou', '德州市'] : 417
+['Binzhou', '滨州市'] : 417
+['Taian', '泰安市'] : 417
+['Yulin', '玉林市'] : 417
+['Wuzhou', '梧州市'] : 417
+['Qinzhou', '钦州市'] : 417
+['Liuzhou', '柳州市'] : 417
+['Laibin', '来宾市'] : 417
+['Guigang', '贵港市'] : 417
+['Beihai', '北海市'] : 417
+['Hechi', '河池市'] : 417
+['Fangchenggang', '防城港市'] : 417
+['Chongzuo', '崇左市'] : 417
+['Baise', '百色市'] : 417
+['Hezhou', '贺州市'] : 417
+['Yingtan', '鹰潭市'] : 417
+['Shangrao', '上饶市'] : 417
+['Pingxiang', '萍乡市'] : 417
+['Nanchang', '南昌市'] : 417
+['Jiujiang', '九江市'] : 417
+['Jingdezhen', '景德镇市'] : 417
+['Ji’an', '吉安市'] : 417
+['Fuzhou', '抚州市'] : 417
+['Xinyu', '新余市'] : 417
+['Yichun', '宜春市'] : 417
+['Yinchuan', '银川市'] : 417
+['Shizuishan', '石嘴山市'] : 417
+['Zhongwei', '中卫市'] : 417
+['Guyuan', '固原市'] : 417
+['Wuzhong', '吴忠市'] : 417
+['Shennongjia Forest Region', '神农架林区'] : 417
+['Xianning', '咸宁市'] : 417
+['Xiantao', '仙桃市'] : 417
+['Jingmen', '荆门市'] : 417
+['Enshi Tujia And Miao Autonomous Prefecture', '恩施土家族苗族自治州'] : 417
+['Tianmen', '天门市'] : 417
+['Yan’an', '延安市'] : 417
+['Ankang', '安康市'] : 417
+["Xi'an", '西安市'] : 417
+["Chang'an", '长安市'] : 417
+['Weinan', '渭南市'] : 417
+['Yulin', '榆林市'] : 417
+['Tongchuan', '铜川市'] : 417
+['Baoji', '宝鸡市'] : 417
+['Hanzhong', '汉中市'] : 417
+['Shangluo', '商洛市'] : 417
+['Xinzhou', '忻州市'] : 417
+['Linfen', '临汾市'] : 417
+['Changzhi', '长治市'] : 417
+['Jincheng', '晋城市'] : 417
+['Shuozhou', '朔州市'] : 417
+['Luliang', '吕梁市'] : 417
+['Xining', '西宁市'] : 417
+['Haidong', '海东市'] : 417
+['Haixi Mongolian And Tibetan Autonomous Prefecture', '海西蒙古族藏族自治州'] : 417
+['Guoluo Tibetan Autonomous Prefecture', '果洛藏族自治州'] : 417
+['Huangnan Tibetan Autonomous Prefecture', '黄南藏族自治州'] : 417
+['Haibei Tibetan Autonomous Prefecture', '海北藏族自治州'] : 417
+['Yushu Tibetan Autonomous Prefecture', '玉树藏族自治州'] : 417
+['Shijiazhuang', '石家庄市'] : 417
+['Hengshui', '衡水市'] : 417
+['Zhangjiakou', '张家口市'] : 417
+['Chengde', '承德市'] : 417
+['Tangshan', '唐山市'] : 417
+['Wenzhou', '温州市'] : 417
+['Quzhou', '衢州市'] : 417
+['Lishui', '丽水市'] : 417
+['Jinhua', '金华市'] : 417
+['Jiaxing', '嘉兴市'] : 417
+['Taizhou', '台州市'] : 417
+['Zhoushan', '舟山市'] : 417
+['Tongling', '铜陵市'] : 417
+['Suzhou', '宿州市'] : 417
+['Huaibei', '淮北市'] : 417
+['Chuzhou', '滁州市'] : 417
+['Chizhou', '池州市'] : 417
+['Bozhou', '亳州市'] : 417
+['Bengbu', '蚌埠市'] : 417
+['Anqing', '安庆市'] : 417
+['Maanshan', '马鞍山市'] : 417
+['Xuancheng', '宣城市'] : 417
+['Huainan', '淮南市'] : 417
+['Haikou', '海口市'] : 417
+['Lingshui Li Autonomous County', '陵水黎族自治县'] : 417
+['Baisha Li Autonomous County', '白沙黎族自治县'] : 417
+['Oriental', '东方市'] : 417
+['Wanning', '万宁市'] : 417
+['Baoting Li And Miao Autonomous County', '保亭黎族苗族自治县'] : 417
+['Changjiang Li Autonomous County', '昌江黎族自治县'] : 417
+['Le Dong Li Autonomous County', '乐东黎族自治县'] : 417
+['Danzhou', '儋州市'] : 417
+['Qiongzhong Li And Miao Autonomous County', '琼中黎族苗族自治县'] : 417
+['Qionghai', '琼海市'] : 417
+['Sansha', '三沙市'] : 417
+['Wenchang', '文昌市'] : 417
+['Sanya', '三亚市'] : 417
+['Wuzhishan', '五指山市'] : 417
+['Liaoyang', '辽阳市'] : 417
+['Jinzhou', '锦州市'] : 417
+['Fuxin', '阜新市'] : 417
+['Fushun', '抚顺市'] : 417
+['Dandong', '丹东市'] : 417
+['Benxi', '本溪市'] : 417
+['Anshan', '鞍山市'] : 417
+['Huludao', '葫芦岛市'] : 417
+['Yingkou', '营口市'] : 417
+['Tieling', '铁岭市'] : 417
+['Panjin', '盘锦市'] : 417
+['Chaoyang', '朝阳市'] : 417
+['Yichun', '伊春市'] : 417
+['Suihua', '绥化市'] : 417
+['Shuangyashan', '双鸭山市'] : 417
+['Qiqihar', '齐齐哈尔市'] : 417
+['Mudanjiang', '牡丹江市'] : 417
+['Jixi', '鸡西市'] : 417
+['Jiamusi', '佳木斯市'] : 417
+['Heihe', '黑河市'] : 417
+['Hegang', '鹤岗市'] : 417
+['Qitaihe', '七台河市'] : 417
+["Daxing'Anling Area", '大兴安岭地区'] : 200
+['Tongliao', '通辽市'] : 417
+['Hohhot', '呼和浩特市'] : 417
+['Chifeng', '赤峰市'] : 417
+['Baotou', '包头市'] : 417
+['Ulanqab', '乌兰察布市'] : 417
+['Ordos', '鄂尔多斯市'] : 417
+['Hulunbeier', '呼伦贝尔市'] : 417
+['Alax League', '阿拉善盟'] : 200
+['Bayannre', '巴彦淖尔市'] : 417
+['Tonghua', '通化市'] : 417
+['Siping', '四平市'] : 417
+['Baishan', '白山市'] : 417
+['Liaoyuan', '辽源市'] : 417
+['Yanbian Korean Autonomous Prefecture', '延边朝鲜族自治州'] : 417
+['Baicheng', '白城市'] : 417
+['Songyuan', '松原市'] : 417
+['Macao', '澳门'] : 200
+['Jiuquan', '酒泉市'] : 417
+['Zhangye', '张掖市'] : 417
+['Pingliang', '平凉市'] : 417
+['Wuwei', '武威市'] : 417
+['Lanzhou', '兰州市'] : 417
+['Dingxi', '定西市'] : 417
+['Baiyin', '白银市'] : 417
+['Linxia Hui Autonomous Prefecture', '临夏回族自治州'] : 417
+['Jinchang', '金昌市'] : 417
+['Gannan Tibetan Autonomous Prefecture', '甘南藏族自治州'] : 417
+['Qingyang', '庆阳市'] : 417
+['Longnan', '陇南市'] : 417
+['Jiayuguan', '嘉峪关市'] : 417
+['Lhasa', '拉萨市'] : 417
+['Nakchu', '那曲市'] : 417
+['Ali Area', '阿里地区'] : 417
+['Changdu', '昌都市'] : 417
+['Linzhi', '林芝市'] : 417

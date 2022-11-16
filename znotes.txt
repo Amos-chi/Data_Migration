@@ -1,0 +1,8 @@
+# 镜像 -i http://pypi.douban.com/simple/ --trusted-host pypi.douban.com
+
+'''
+    roxies = {
+       'http': 'http://127.0.0.1:4780',
+       'https': 'http://127.0.0.1:4780'
+    }
+'''

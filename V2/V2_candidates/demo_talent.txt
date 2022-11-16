@@ -1,0 +1,8 @@
+{
+    "condition": "{\"and\":[{\"or\":[{\"location\":\"wuahn\"}]}]}",
+    "pageSize": 600,
+    "pageNumber": 1,
+    "module": "CANDIDATE",
+    "timezone": "Asia/Shanghai",
+    "initialSearch": false
+}

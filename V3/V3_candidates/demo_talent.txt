@@ -1,0 +1,21 @@
+{
+    "search": [
+        {
+            "relation": "AND",
+            "condition": [
+                {
+                    "key": "currentLocation",
+                    "value": {
+                        "data": [
+                            {
+                                "location": "wuhan"
+                            }
+                        ]
+                    }
+                }
+            ]
+        }
+    ],
+    "module": "CANDIDATE",
+    "timezone": "Asia/Shanghai"
+}

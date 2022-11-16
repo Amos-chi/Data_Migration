@@ -1,0 +1,141 @@
+新南威尔士州/New South Wales
+昆士兰州/Queensland
+南澳大利亚州/South Australia
+塔斯马尼亚州/Tasmania
+维多利亚州/Victoria
+西澳大利亚州/Western Australia
+澳大利亚首都直辖区/Australian Capital Territory
+杰维斯湾地区/Jervis Bay Territory
+北部地区/Northern Territory
+阿尔伯塔省/Alberta
+不列颠哥伦比亚省/British Columbia
+马尼托巴省/Manitoba
+新不伦瑞克省/New Brunswick
+纽芬兰和拉布拉多/Newfoundland and Labrador
+西北地区/Northwest Territories
+新斯科舍省/Nova Scotia
+努纳武特/Nunavut
+安大略省/Ontario
+爱德华王子岛/Prince Edward Island
+魁北克省/Quebec
+萨斯喀彻温省/Saskatchewan
+育空地区/Yukon
+京畿大区/Capital Region of Denmark
+中日德兰大区/Central Denmark Region
+北日德兰大区/North Denmark Region
+西兰大区/Region Zealand
+南丹麦大区/Region of Southern Denmark
+巴登-符腾堡/Baden-Württemberg
+巴伐利亚/Bavaria
+柏林/Berlin
+勃兰登堡/Brandenburg
+不莱梅/Bremen
+汉堡/Hamburg
+黑森/Hesse
+梅克伦堡-西波美拉尼亚/Mecklenburg-Western Pomerania
+下萨克森/Lower Saxony
+北莱茵-西发里亚/North Rhine-Westphalia
+莱茵兰-普法尔茨/Rhineland-Palatinate
+萨尔/Saarland
+萨克森-安哈尔特/Sachsen-Anhalt
+萨克森/Saxony
+石勒苏益格-荷尔斯泰团/Schleswig-Holstein
+图林根/Thuringia
+马尼拉大都会/National Capital Region
+科迪勒拉/Cordillera Administrative Region
+伊洛克斯/Ilocos Region
+卡加延河谷/Cagayan Valley
+中央呂宋/Central Luzon
+卡拉巴松/Calabarzon
+民马罗巴/Mimaropa
+比科尔/Bicol Region
+西米沙鄢/Western Visayas
+中米沙鄢/Central Visayas
+东米沙鄢/Eastern Visayas
+三宝颜半岛/Zamboanga Peninsula
+北棉兰老/Northern Mindanao
+达沃/Davao Region
+索科斯克萨尔根/Soccsksargen
+卡拉加/Caraga
+邦萨摩洛/Bangsamoro
+苏黎世州/Zurich
+伯尔尼州/Bern
+卢塞恩州/Luzern
+乌里州/Uri
+施维茨州/Schwyz
+上瓦尔登州/Obwalden
+下瓦尔登州/Nidwalden
+格拉鲁斯州/Glarus
+楚格州/Zug
+弗里堡州/Freiburg
+索洛图恩州/Solothurn
+巴塞尔城市州/Basel-Stadt
+巴塞尔乡村州/Basel-Landschaft
+沙夫豪森州/Schaffhausen
+外阿彭策尔州/Appenzell Ausserrhoden
+内阿彭策尔州/Appenzell Innerrhoden
+圣加仑州/St. Gallen
+格劳宾登州/Graubunden
+阿尔高州/Aargau
+图尔高州/Thurgau
+提契诺州/Ticino
+沃州/Vaud
+瓦莱州/Valais
+纳沙泰尔州/Neuchatel
+日内瓦州/Geneva
+汝拉州/Jura
+英格兰/England
+北爱尔兰自治区/Northern Ireland
+苏格兰/Scotland
+威尔士/Wales
+阿拉斯加州/Alaska
+阿拉巴马州/Alabama
+阿肯色州/Arkansas
+亚利桑那州/Arizona
+加利福尼亚州/California
+科罗拉多州/Colorado
+康涅狄格州/Connecticut
+哥伦比亚特区/District of Columbia
+特拉华州/Delaware
+佛罗里达州/Florida
+乔治亚州/Georgia
+夏威夷州/Hawaii
+艾奥瓦州/Iowa
+爱达荷州/Idaho
+伊利诺斯州/Illinois
+印第安纳州/Indiana
+堪萨斯州/Kansas
+肯塔基州/Kentucky
+路易斯安那州/Louisiana
+马萨诸塞州/Massachusetts
+马里兰州/Maryland
+缅因州/Maine
+密歇根州/Michigan
+明尼苏达州/Minnesota
+密苏里州/Missouri
+密西西比州/Mississippi
+蒙大拿州/Montana
+北卡罗来纳州/North Carolina
+北达科他州/North Dakota
+内布拉斯加州/Nebraska
+新罕布什尔州/New Hampshire
+新泽西州/New Jersey
+新墨西哥州/New Mexico
+内华达州/Nevada
+纽约州/New York
+俄亥俄州/Ohio
+俄克拉荷马州/Oklahoma
+俄勒冈州/Oregon
+宾夕法尼亚州/Pennsylvania
+罗德岛州/Rhode Island
+南卡罗来纳州/South Carolina
+南达科他州/South Dakota
+田纳西州/Tennessee
+得克萨斯州/Texas
+犹他州/Utah
+西弗吉尼亚州/West Virginia
+弗吉尼亚州/Virginia
+佛蒙特州/Vermont
+华盛顿州/Washington
+威斯康辛州/Wisconsin
+怀俄明州/Wyoming
