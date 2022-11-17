@@ -34809,11 +34809,11 @@ prod = [
         "crunchbaseCompanyProfile": "",
         "logo": "",
         "address": [
-            "2001 Broadway"
+            "1825 S Grant St #2"
         ],
         "addressStr": [
             {
-                "city": "Oakland",
+                "city": "San Mateo",
                 "province": "California",
                 "country": "United States"
             }
@@ -34860,12 +34860,12 @@ prod = [
         "crunchbaseCompanyProfile": "",
         "logo": "",
         "address": [
-            "7900 International Dr Suite 650"
+            "1020 Kifer Rd"
         ],
         "addressStr": [
             {
-                "city": "Bloomington",
-                "province": "Minnesota",
+                "city": "Sunnyvale",
+                "province": "California",
                 "country": "United States"
             }
         ],
@@ -34891,6 +34891,52 @@ prod = [
         ],
         "teamMembers": [
             "Jitin Srivastava"
+        ]
+    },
+    {
+        "id": 2054,
+        "companyName": "Mindstrong",
+        "industry": "IT_SOFTWARE",
+        "website": "https://mindstrong.com/",
+        "fortuneRank": null,
+        "staffSizeType": "FROM_11_TO_50",
+        "businessRevenue": null,
+        "linkedinCompanyProfile": "",
+        "crunchbaseCompanyProfile": "",
+        "logo": "",
+        "address": [
+            "101 Jefferson Dr #228,"
+        ],
+        "addressStr": [
+            {
+                "city": "Menlo Park",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
+        "saleLeadOwners": [
+            863
+        ],
+        "clientContact": [
+            "Luigi Di Grande"
+        ],
+        "estimatedDealTime": [
+            "2022-11-16T00:00:00Z"
+        ],
+        "accountProgress": [
+            0.25
+        ],
+        "serviceTypeNames": [
+            "Recruiting",
+            "Genaral Recruiting (FTE)",
+            "RPO",
+            "Retainer Search"
+        ],
+        "leadSource": [
+            "LINKED_IN"
+        ],
+        "teamMembers": [
+            "Guillaume Dion"
         ]
     }
 ]

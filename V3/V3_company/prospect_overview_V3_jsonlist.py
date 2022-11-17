@@ -116,8 +116,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": "http://apn-doc-staging.oss-cn-shenzhen.aliyuncs.com/65f10bc2-0907-4593-b9a6-5944058bd8fb",
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Santa Clara",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -212,8 +220,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "2055 Laurelwood Road, Suite 210"
+        ],
+        "addressStr": [
+            {
+                "city": "Santa Clara",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -262,8 +278,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "500 Grant Street, Suite 151-0330"
+        ],
+        "addressStr": [
+            {
+                "city": "Pittsburgh",
+                "province": "Pennsylvania",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -283,7 +307,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -402,8 +428,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": "http://apn-doc-staging.oss-cn-shenzhen.aliyuncs.com/0df76a04-154b-417a-a46b-8c5279242890",
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Shanghai",
+                "province": "Shanghai",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [
             301
         ],
@@ -435,7 +469,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -508,7 +544,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -529,8 +567,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Santa Clara",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -596,8 +642,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": "http://apn-doc-staging.oss-cn-shenzhen.aliyuncs.com/77badb43-526d-4fef-9576-c4ce54f34cc1",
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Shenzhen",
+                "province": "Guangdong",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -617,8 +671,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": "http://apn-doc-staging.oss-cn-shenzhen.aliyuncs.com/b4f25892-4cff-4104-8357-ba9ab2cd670f",
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Shenzhen",
+                "province": "Guangdong",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -638,8 +700,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": "http://apn-doc-staging.oss-cn-shenzhen.aliyuncs.com/6de298e9-6d5f-46ca-9445-93f7ee4f87c3",
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Shenzhen",
+                "province": "Guangdong",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -659,7 +729,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -726,7 +798,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -770,7 +844,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -814,8 +890,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "41432 Apricot Lane"
+        ],
+        "addressStr": [
+            {
+                "city": "Fremont",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -835,7 +919,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -856,8 +942,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "US"
+        ],
+        "addressStr": [
+            {
+                "city": "Santa Clara",
+                "province": "Utah",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -900,7 +994,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -944,8 +1040,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "朝阳区马甸裕民路12号中国国际科技会展中心B座11层"
+        ],
+        "addressStr": [
+            {
+                "city": "Beijing",
+                "province": "Beijing",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -1092,8 +1196,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "San Francisco",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -1113,8 +1225,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Sunnyvale",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -1134,8 +1254,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Santa Clara",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -1155,7 +1283,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -1176,8 +1306,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Redmond",
+                "province": "Washington",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -1364,7 +1502,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -1408,7 +1548,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -1429,8 +1571,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "2485 Old Middlefield Way, Suite 30, Mountain View, California 94043, US"
+        ],
+        "addressStr": [
+            {
+                "city": "Mountain View",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -1496,7 +1646,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -1540,8 +1692,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "5150 W El Camino Real Suite A-22"
+        ],
+        "addressStr": [
+            {
+                "city": "Los Altos",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -1590,7 +1750,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -1611,7 +1773,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -1707,7 +1871,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -1728,8 +1894,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "北京市朝阳区霄云中心A座 1603."
+        ],
+        "addressStr": [
+            {
+                "city": "Beijing",
+                "province": "Beijing",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -1822,7 +1996,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -1844,9 +2020,15 @@ staging = [
         "crunchbaseCompanyProfile": "",
         "logo": null,
         "address": [
+            "中国区",
             "shanghai"
         ],
         "addressStr": [
+            {
+                "city": "Beijing",
+                "province": "Beijing",
+                "country": "China"
+            },
             {
                 "city": "Shanghai",
                 "province": "Shanghai",
@@ -1887,7 +2069,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -1931,7 +2115,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -2102,7 +2288,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            "上海市徐汇区虹漕路456号"
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -2123,7 +2311,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -2144,8 +2334,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Beijing",
+                "province": "Beijing",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -2261,8 +2459,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Hangzhou",
+                "province": "Zhejiang",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -2328,8 +2534,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 河北省廊坊市经济技术开发区"
+        ],
+        "addressStr": [
+            {
+                "city": "Langfang",
+                "province": "Hebei",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -2378,8 +2592,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 北京市海淀区林风二路39号"
+        ],
+        "addressStr": [
+            {
+                "city": "Beijing",
+                "province": "Beijing",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -2399,8 +2621,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 佛山市顺德区"
+        ],
+        "addressStr": [
+            {
+                "city": "Foshan",
+                "province": "Guangdong",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -2420,8 +2650,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 浙江省杭州市萧山区"
+        ],
+        "addressStr": [
+            {
+                "city": "Hangzhou",
+                "province": "Zhejiang",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -2441,8 +2679,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 重庆市合川工业园区"
+        ],
+        "addressStr": [
+            {
+                "city": "Chongqing",
+                "province": "Chongqing",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -2462,8 +2708,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "苏州工业园区"
+        ],
+        "addressStr": [
+            {
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -2483,8 +2737,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 上海市嘉定区安亭镇安驰路"
+        ],
+        "addressStr": [
+            {
+                "city": "Shanghai",
+                "province": "Shanghai",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -2504,8 +2766,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 厦门市海沧区山边洪东路18号"
+        ],
+        "addressStr": [
+            {
+                "city": "Xiamen",
+                "province": "Fujian",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -2555,9 +2825,15 @@ staging = [
         "crunchbaseCompanyProfile": "",
         "logo": null,
         "address": [
+            "保定市朝阳南大街2266号",
             "Baoding"
         ],
         "addressStr": [
+            {
+                "city": "Baoding",
+                "province": "Hebei",
+                "country": "China"
+            },
             {
                 "city": "Baoding",
                 "province": "Hebei",
@@ -2678,9 +2954,15 @@ staging = [
         "crunchbaseCompanyProfile": "",
         "logo": null,
         "address": [
-            "china"
+            "china",
+            "佛山市顺德区北滘镇美的大道6号美的总部大楼"
         ],
         "addressStr": [
+            {
+                "city": "Foshan",
+                "province": "Guangdong",
+                "country": "China"
+            },
             {
                 "city": "Foshan",
                 "province": "Guangdong",
@@ -2808,8 +3090,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "北京市海淀区中关村南大街34号"
+        ],
+        "addressStr": [
+            {
+                "city": "Beijing",
+                "province": "Beijing",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -2916,7 +3206,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -2960,8 +3252,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "广州市番禺区市"
+        ],
+        "addressStr": [
+            {
+                "city": "Guangzhou",
+                "province": "Guangdong",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -3033,7 +3333,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            " 长沙市开福区湖南国际会展中心北四楼"
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -3054,7 +3356,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            " 长沙市开福区湖南国际会展中心北四楼"
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -3104,8 +3408,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 无锡市新吴区新华路"
+        ],
+        "addressStr": [
+            {
+                "city": "Wuxi",
+                "province": "Jiangsu",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -3125,8 +3437,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "新疆昌吉州昌吉市北京南路189号"
+        ],
+        "addressStr": [
+            {
+                "city": "Beijing",
+                "province": "Beijing",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -3146,8 +3466,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 湖北省武汉市武汉经济技术开发区东风大道特1号"
+        ],
+        "addressStr": [
+            {
+                "city": "Wuhan",
+                "province": "Hubei",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -3167,7 +3495,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            " 长沙市望城经济技术开发区金星西路8号"
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -3188,8 +3518,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 北京市朝阳区酒仙桥路10号"
+        ],
+        "addressStr": [
+            {
+                "city": "Beijing",
+                "province": "Beijing",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -3238,8 +3576,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "常州市新北区汉江路398号"
+        ],
+        "addressStr": [
+            {
+                "city": "Changzhou",
+                "province": "Jiangsu",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -3259,8 +3605,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 东莞市长安镇乌沙步步高大道255号"
+        ],
+        "addressStr": [
+            {
+                "city": "Dongguan",
+                "province": "Guangdong",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -3280,8 +3634,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 惠州市汝湖镇东亚村委会石桥头(雷士工业园)"
+        ],
+        "addressStr": [
+            {
+                "city": "Huizhou",
+                "province": "Guangdong",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -3301,8 +3663,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 北京市海淀区海淀中街6号9层"
+        ],
+        "addressStr": [
+            {
+                "city": "Beijing",
+                "province": "Beijing",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -3386,8 +3756,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 北京市海淀区复兴路四十九号"
+        ],
+        "addressStr": [
+            {
+                "city": "Beijing",
+                "province": "Beijing",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -3407,8 +3785,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 深圳市盐田区洪安三街21号"
+        ],
+        "addressStr": [
+            {
+                "city": "Shenzhen",
+                "province": "Guangdong",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -3428,8 +3814,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "北京市海淀区中关村大街1号"
+        ],
+        "addressStr": [
+            {
+                "city": "Beijing",
+                "province": "Beijing",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -3449,8 +3843,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 深圳市南山区沙河街道香山街社区"
+        ],
+        "addressStr": [
+            {
+                "city": "Shenzhen",
+                "province": "Guangdong",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -3470,8 +3872,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "北京市海淀区北清路81号"
+        ],
+        "addressStr": [
+            {
+                "city": "Beijing",
+                "province": "Beijing",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -3491,8 +3901,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "厦门市思明区环岛东路1699号建发国际大厦"
+        ],
+        "addressStr": [
+            {
+                "city": "Xiamen",
+                "province": "Fujian",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -3512,8 +3930,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 上海市普陀区真北路788号"
+        ],
+        "addressStr": [
+            {
+                "city": "Shanghai",
+                "province": "Shanghai",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -3620,7 +4046,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            "湖南省长沙市望城区旺旺东路2号"
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -3641,7 +4069,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -3691,8 +4121,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 深圳市南山区高新区北区北环路9108号海能达大厦"
+        ],
+        "addressStr": [
+            {
+                "city": "Shenzhen",
+                "province": "Guangdong",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -3712,8 +4150,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "福建省福州市晋安区金鸡山路20号"
+        ],
+        "addressStr": [
+            {
+                "city": "Fuzhou",
+                "province": "Fujian",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -3779,8 +4225,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 石家庄高新技术产业开发区黄河大道226号"
+        ],
+        "addressStr": [
+            {
+                "city": "Shijiazhuang",
+                "province": "Hebei",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -3858,8 +4312,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "1209 Orange Street"
+        ],
+        "addressStr": [
+            {
+                "city": "Wilmington",
+                "province": "North Carolina",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -3879,7 +4341,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -3900,8 +4364,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 武汉东湖新技术开发区东一产业园光谷大道"
+        ],
+        "addressStr": [
+            {
+                "city": "Wuhan",
+                "province": "Hubei",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -3921,8 +4393,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 连云港经济技术开发区黄河路38号"
+        ],
+        "addressStr": [
+            {
+                "city": "Shanghai",
+                "province": "Shanghai",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -3965,7 +4445,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -4217,7 +4699,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            "16/F,Shing Lee Commercial Building,8 Wing Kut Street, Central,"
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -4359,7 +4843,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -4380,8 +4866,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 广州市天河区员村四横路1号大院"
+        ],
+        "addressStr": [
+            {
+                "city": "Guangzhou",
+                "province": "Guangdong",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -4401,8 +4895,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "Headquarters 4655 Great America Parkway, Suite 300"
+        ],
+        "addressStr": [
+            {
+                "city": "Santa Clara",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -4468,8 +4970,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 武汉东湖高新区高新大道666号"
+        ],
+        "addressStr": [
+            {
+                "city": "Wuhan",
+                "province": "Hubei",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -4489,7 +4999,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -4562,8 +5074,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "London"
+        ],
+        "addressStr": [
+            {
+                "city": "London",
+                "province": "England",
+                "country": "United Kingdom"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -4670,7 +5190,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -4720,7 +5242,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -4869,7 +5393,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -4890,8 +5416,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Santa Clara",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -4911,8 +5445,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 桂林市七星区铁山工业园黄桐路9号"
+        ],
+        "addressStr": [
+            {
+                "city": "Guilin",
+                "province": "Guangxi",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -4955,7 +5497,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -5034,8 +5578,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "深圳市南山区西丽街道西丽社区"
+        ],
+        "addressStr": [
+            {
+                "city": "Shenzhen",
+                "province": "Guangdong",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -5113,8 +5665,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "1800 Owens St, San Francisco, CA 94158"
+        ],
+        "addressStr": [
+            {
+                "city": "San Francisco",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -5236,8 +5796,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 洪山区书城路48#(北港工业园)1栋11"
+        ],
+        "addressStr": [
+            {
+                "city": "Wuhan",
+                "province": "Hubei",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -5257,8 +5825,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 安徽省合肥市经济技术开发区空港工业园兴业大道388号"
+        ],
+        "addressStr": [
+            {
+                "city": "Hefei",
+                "province": "Anhui",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -5278,8 +5854,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 河北省保定市莲池区朝阳南大街2288号"
+        ],
+        "addressStr": [
+            {
+                "city": "Baoding",
+                "province": "Hebei",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -5299,8 +5883,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "上海市杨浦区国通路127号16层"
+        ],
+        "addressStr": [
+            {
+                "city": "Shanghai",
+                "province": "Shanghai",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -5320,8 +5912,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 深圳市南山区粤海街道科技园南区粤兴五道9号"
+        ],
+        "addressStr": [
+            {
+                "city": "Shenzhen",
+                "province": "Guangdong",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -5444,8 +6044,16 @@ staging = [
         "linkedinCompanyProfile": "https://www.linkedin.com/company/tempofit/",
         "crunchbaseCompanyProfile": "https://www.crunchbase.com/organization/trainwithpivot",
         "logo": "http://apn-doc-staging.oss-cn-shenzhen.aliyuncs.com/75c7ae64-137e-4c55-be7f-b366ff41f2b6",
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "2460 Alameda St"
+        ],
+        "addressStr": [
+            {
+                "city": "San Francisco",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [
             532
         ],
@@ -5488,8 +6096,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "北京市朝阳区东三环北路3号"
+        ],
+        "addressStr": [
+            {
+                "city": "Beijing",
+                "province": "Beijing",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -5607,8 +6223,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 武汉市东湖新技术开发区软件园东路1号"
+        ],
+        "addressStr": [
+            {
+                "city": "Wuhan",
+                "province": "Hubei",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -5628,8 +6252,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": "http://apn-doc-staging.oss-cn-shenzhen.aliyuncs.com/c4880fa7-4c5d-4808-b853-17a0538e4a01",
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "1245 Folsom St"
+        ],
+        "addressStr": [
+            {
+                "city": "San Francisco",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -5649,8 +6281,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": "http://apn-doc-staging.oss-cn-shenzhen.aliyuncs.com/002d27e0-29dc-4653-959d-018eec7ffa0f",
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "441 W Trimble Rd"
+        ],
+        "addressStr": [
+            {
+                "city": "San Jose",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -5728,8 +6368,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": "http://apn-doc-staging.oss-cn-shenzhen.aliyuncs.com/6cfc167f-68f1-44c8-8bdb-34c734df55e9",
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "11 E Loop Rd 5th floor"
+        ],
+        "addressStr": [
+            {
+                "city": "New York",
+                "province": "New York",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -5749,8 +6397,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": "http://apn-doc-staging.oss-cn-shenzhen.aliyuncs.com/7badf100-0354-49af-8730-1be9d2d669e4",
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "77 Stillman St"
+        ],
+        "addressStr": [
+            {
+                "city": "San Francisco",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -5822,8 +6478,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": "http://apn-doc-staging.oss-cn-shenzhen.aliyuncs.com/a49b28d0-eff1-4244-b3b1-0abf0d16fcdb",
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "950 N Rengstorff Ave"
+        ],
+        "addressStr": [
+            {
+                "city": "Mountain View",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -5843,7 +6507,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -6031,7 +6697,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": "http://apn-doc-staging.oss-cn-shenzhen.aliyuncs.com/a6e68fdb-d456-495d-815c-7c737a5c047d",
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -6075,7 +6743,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": "http://apn-doc-staging.oss-cn-shenzhen.aliyuncs.com/5df97472-f8f5-472d-a8c2-d172660b95e9",
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -6096,8 +6766,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": "http://apn-doc-staging.oss-cn-shenzhen.aliyuncs.com/fda56151-542b-45b0-8cad-980306e9ec27",
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Pleasanton",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -6117,8 +6795,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "San Francisco",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -6416,8 +7102,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Ontario",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -6495,7 +7189,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -6568,8 +7264,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "New York",
+                "province": "New York",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -6589,7 +7293,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -6639,8 +7345,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Valhalla",
+                "province": "New York",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -6890,8 +7604,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "San Francisco",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -7067,8 +7789,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Palo Alto",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -7146,8 +7876,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Burlingame",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -7167,8 +7905,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "https://jobs.lever.co/voyage/"
+        ],
+        "addressStr": [
+            {
+                "city": "Palo Alto",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -7188,7 +7934,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -7209,8 +7957,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Cincinnati",
+                "province": "Ohio",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -7230,8 +7986,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Seattle",
+                "province": "Washington",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -7274,8 +8038,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "415 Stockton St "
+        ],
+        "addressStr": [
+            {
+                "city": "San Francisco",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -7295,8 +8067,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Ann Arbor",
+                "province": "Michigan",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -7316,8 +8096,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Boston",
+                "province": "Massachusetts",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -7338,10 +8126,16 @@ staging = [
         "crunchbaseCompanyProfile": null,
         "logo": null,
         "address": [
+            "360 Portage Avenue",
             "360 Portage Ave",
-            "360 Portage Avenue"
+            "360 Portage Ave"
         ],
         "addressStr": [
+            {
+                "city": "Palo Alto",
+                "province": "California",
+                "country": "United States"
+            },
             {
                 "city": "Palo Alto",
                 "province": "California",
@@ -7671,8 +8465,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Waltham",
+                "province": "Massachusetts",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -7692,8 +8494,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "New York",
+                "province": "New York",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -7742,8 +8552,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "San Francisco",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -7821,8 +8639,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "San Francisco",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -7842,8 +8668,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "San Francisco",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -7863,8 +8697,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "New York",
+                "province": "New York",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -7884,8 +8726,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Santa Clara",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -7992,8 +8842,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "New York",
+                "province": "New York",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -8013,8 +8871,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Cambridge",
+                "province": "Massachusetts",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -8092,8 +8958,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Miami",
+                "province": "Florida",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -8113,8 +8987,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "San Francisco",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -8134,8 +9016,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "San Francisco",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -8358,8 +9248,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "San Francisco",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -8379,8 +9277,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Germantown",
+                "province": "Maryland",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -8400,8 +9306,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "San Francisco",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -8728,8 +9642,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "San Francisco",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -8749,8 +9671,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Redwood City",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -8770,8 +9700,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "South San Francisco",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -8820,8 +9758,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Sunnyvale",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -8980,8 +9926,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "San Francisco",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -9001,8 +9955,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Mountain View",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -9022,8 +9984,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "北京市石景山区八角东街65号"
+        ],
+        "addressStr": [
+            {
+                "city": "Beijing",
+                "province": "Beijing",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -9128,7 +10098,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            "1055 W HASTINGS"
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -9149,7 +10121,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            "#400 369 Terminal Ave"
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -9268,7 +10242,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            "1221 8 Street Southwest"
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -9335,7 +10311,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -9379,7 +10357,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            "800 5 Avenue Southwest"
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -9504,8 +10484,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 7373 Gateway Blvd, Newark, CA 94560"
+        ],
+        "addressStr": [
+            {
+                "city": "Newark",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -9612,8 +10600,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "55 Almaden Boulevard, 6th Floor, San Jose, CA 95113"
+        ],
+        "addressStr": [
+            {
+                "city": "San Jose",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -9749,8 +10745,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 3061 Fillmore St, San Francisco, CA 94123"
+        ],
+        "addressStr": [
+            {
+                "city": "San Francisco",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -9799,8 +10803,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "855 Jefferson Ave"
+        ],
+        "addressStr": [
+            {
+                "city": "Redwood City",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -9901,8 +10913,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "548 Market St #35410, San Francisco, CA 94104"
+        ],
+        "addressStr": [
+            {
+                "city": "San Francisco",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -9922,8 +10942,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "870 Market St #859, San Francisco, CA 94102"
+        ],
+        "addressStr": [
+            {
+                "city": "San Francisco",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -9973,9 +11001,15 @@ staging = [
         "crunchbaseCompanyProfile": null,
         "logo": null,
         "address": [
+            "北京市海淀区彩和坊路8号4层406",
             "北京市海淀区学院南路62号院1号楼"
         ],
         "addressStr": [
+            {
+                "city": "Beijing",
+                "province": "Beijing",
+                "country": "China"
+            },
             {
                 "city": "Beijing",
                 "province": "Beijing",
@@ -10030,8 +11064,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "San Jose",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -10051,8 +11093,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Columbia",
+                "province": "Maryland",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -10072,8 +11122,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Dublin",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -10122,8 +11180,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "San Francisco",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -10257,8 +11323,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "San Francisco",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -10336,8 +11410,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Mountain View",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -10357,8 +11439,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "San Francisco",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -10552,8 +11642,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "San Francisco",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -10573,8 +11671,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "San Francisco",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -10594,8 +11700,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 上海市杨浦区长阳路1687号西1168幢(C楼)"
+        ],
+        "addressStr": [
+            {
+                "city": "Shanghai",
+                "province": "Shanghai",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -10638,8 +11752,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Boston",
+                "province": "Massachusetts",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -10717,8 +11839,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Brisbane",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -10738,8 +11868,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "San Francisco",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -10846,8 +11984,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Chicago",
+                "province": "Illinois",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -10965,8 +12111,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "San Francisco",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -11015,7 +12169,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            "上海"
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -11036,7 +12192,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [
             457
@@ -11072,8 +12230,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "杭州市滨江区滨康路668号"
+        ],
+        "addressStr": [
+            {
+                "city": "Hangzhou",
+                "province": "Zhejiang",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -11188,8 +12354,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 天津市南开区宾水西道与凌宾路交口"
+        ],
+        "addressStr": [
+            {
+                "city": "Tianjin",
+                "province": "Tianjin",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -11238,7 +12412,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -11259,7 +12435,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -11303,7 +12481,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -11353,8 +12533,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": "https://s3-us-west-1.amazonaws.com/apn-doc-production/f9887077-5089-4e28-bf7a-00b1f3787c99",
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "San Jose",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -11374,7 +12562,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -11705,7 +12895,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -11872,7 +13064,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -11893,7 +13087,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -11937,7 +13133,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": "https://s3-us-west-1.amazonaws.com/apn-doc-production/19f30f89-4cb6-474e-bdce-85b11f21426c",
-        "address": [],
+        "address": [
+            "Cambridge, MA                             "
+        ],
         "addressStr": [],
         "saleLeadOwners": [
             445,
@@ -11982,8 +13180,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 东台市城东新区鸿达路18号"
+        ],
+        "addressStr": [
+            {
+                "city": "Shanghai",
+                "province": "Shanghai",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -12003,8 +13209,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 上海市宝山区山连路181号3幢"
+        ],
+        "addressStr": [
+            {
+                "city": "Shanghai",
+                "province": "Shanghai",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -12024,7 +13238,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -12045,7 +13261,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -12066,8 +13284,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": "https://s3-us-west-1.amazonaws.com/apn-doc-production/c91ac8d9-40c5-420f-adf5-bf4e5b03cdab",
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "1296 Kifer Rd Suite #606 Sunnyvale, CA 94086, USA"
+        ],
+        "addressStr": [
+            {
+                "city": "Sunnyvale",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -12110,8 +13336,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "951 Mariners Island Blvd # 700"
+        ],
+        "addressStr": [
+            {
+                "city": "San Mateo",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -12131,7 +13365,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -12152,7 +13388,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            "Kleyerstrasse 90 60326 Frankfurt, Germany"
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -12173,7 +13411,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -12252,8 +13492,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Beijing",
+                "province": "Beijing",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -12273,8 +13521,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            " 深圳市南山区学苑大道1001号"
+        ],
+        "addressStr": [
+            {
+                "city": "Shenzhen",
+                "province": "Guangdong",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -12294,8 +13550,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "上海市闵行区联航路1188号32号楼"
+        ],
+        "addressStr": [
+            {
+                "city": "Shanghai",
+                "province": "Shanghai",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -12437,7 +13701,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -12458,8 +13724,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "上海市虹口区飞虹路360弄9号3724室"
+        ],
+        "addressStr": [
+            {
+                "city": "Suzhou",
+                "province": "Jiangsu",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -12480,6 +13754,7 @@ staging = [
         "crunchbaseCompanyProfile": null,
         "logo": null,
         "address": [
+            "",
             "上海市长宁区延安西路1319号上海利星行广场23层"
         ],
         "addressStr": [
@@ -12508,7 +13783,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            "1 York St, Toronto, ON M5J 0B6, Canada"
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -12627,7 +13904,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -12700,8 +13979,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "345 N. Baldwin Park Blvd."
+        ],
+        "addressStr": [
+            {
+                "city": "City of Industry",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -12773,7 +14060,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -12794,8 +14083,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "San Francisco",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -12815,7 +14112,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -12836,7 +14135,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -12932,7 +14233,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -12976,7 +14279,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -12997,7 +14302,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -13145,8 +14452,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "San Francisco",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -13264,8 +14579,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Shanghai",
+                "province": "Shanghai",
+                "country": "China"
+            }
+        ],
         "saleLeadOwners": [
             531,
             531
@@ -13411,7 +14734,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -13432,7 +14757,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -13453,7 +14780,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -13497,7 +14826,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -13662,7 +14993,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -13683,7 +15016,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -13756,8 +15091,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": "https://s3-us-west-1.amazonaws.com/apn-doc-production/0effc78d-dafa-4bc1-9b45-6f916fa1fb63",
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "439 University Ave, Suite 1701, Toronto, ON, Canada"
+        ],
+        "addressStr": [
+            {
+                "city": "Toronto",
+                "province": "Kansas",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -13777,8 +15120,16 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
-        "addressStr": [],
+        "address": [
+            ""
+        ],
+        "addressStr": [
+            {
+                "city": "Atlanta",
+                "province": "Georgia",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [],
         "clientContact": [],
         "estimatedDealTime": [],
@@ -13879,7 +15230,9 @@ staging = [
         "linkedinCompanyProfile": null,
         "crunchbaseCompanyProfile": null,
         "logo": null,
-        "address": [],
+        "address": [
+            ""
+        ],
         "addressStr": [],
         "saleLeadOwners": [],
         "clientContact": [],
@@ -14022,7 +15375,10 @@ staging = [
             "LINKED_IN",
             "REFERRAL"
         ],
-        "teamMembers": []
+        "teamMembers": [
+            "Doris  Gu",
+            "Keith Johnson II"
+        ]
     },
     {
         "id": 1057,
@@ -14150,12 +15506,12 @@ staging = [
             693
         ],
         "clientContact": [
-            "Connor Hall",
-            "Jessica Turner"
+            "Jessica Turner",
+            "Connor Hall"
         ],
         "estimatedDealTime": [
-            "2021-05-28T00:00:00Z",
-            "2021-07-31T00:00:00Z"
+            "2021-07-31T00:00:00Z",
+            "2021-05-28T00:00:00Z"
         ],
         "accountProgress": [
             0.25,
@@ -14172,10 +15528,12 @@ staging = [
             "Retainer Search"
         ],
         "leadSource": [
-            "PERSONAL_NETWORK",
-            "LINKED_IN"
+            "LINKED_IN",
+            "PERSONAL_NETWORK"
         ],
-        "teamMembers": []
+        "teamMembers": [
+            "Keith Johnson II"
+        ]
     },
     {
         "id": 1060,
@@ -14301,8 +15659,16 @@ staging = [
         "linkedinCompanyProfile": "",
         "crunchbaseCompanyProfile": "",
         "logo": "",
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "Torshamnsgatan 21"
+        ],
+        "addressStr": [
+            {
+                "city": "Vendelso",
+                "province": "Stockholm",
+                "country": "Sweden"
+            }
+        ],
         "saleLeadOwners": [
             693
         ],
@@ -14395,8 +15761,16 @@ staging = [
         "linkedinCompanyProfile": "",
         "crunchbaseCompanyProfile": "",
         "logo": "",
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "1450 Page Mill Rd"
+        ],
+        "addressStr": [
+            {
+                "city": "Palo Alto",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [
             532
         ],
@@ -14630,8 +16004,16 @@ staging = [
         "linkedinCompanyProfile": "",
         "crunchbaseCompanyProfile": "",
         "logo": "",
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "548 Market St PMB 36147"
+        ],
+        "addressStr": [
+            {
+                "city": "San Francisco",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [
             693,
             693,
@@ -14639,22 +16021,22 @@ staging = [
             693
         ],
         "clientContact": [
+            "Michael Abeli",
             "Srinivas Alladi",
-            "Kevin Thomson",
             "Shendora Pridgen",
-            "Michael Abeli"
+            "Kevin Thomson"
         ],
         "estimatedDealTime": [
             "2021-07-30T00:00:00Z",
+            "2021-07-30T00:00:00Z",
             "2021-06-30T00:00:00Z",
-            "2021-06-30T00:00:00Z",
-            "2021-07-30T00:00:00Z"
+            "2021-06-30T00:00:00Z"
         ],
         "accountProgress": [
             0.25,
+            0.25,
             0.5,
-            0.5,
-            0.25
+            0.5
         ],
         "serviceTypeNames": [
             "Recruiting",
@@ -14699,12 +16081,14 @@ staging = [
             "PayRolling"
         ],
         "leadSource": [
+            "PERSONAL_NETWORK",
             "REFERRAL",
             "REFERRAL",
-            "REFERRAL",
-            "PERSONAL_NETWORK"
+            "REFERRAL"
         ],
-        "teamMembers": []
+        "teamMembers": [
+            "Keith Johnson II"
+        ]
     },
     {
         "id": 1076,
@@ -14775,8 +16159,16 @@ staging = [
         "linkedinCompanyProfile": "",
         "crunchbaseCompanyProfile": "",
         "logo": "",
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "100 Winchester Cir"
+        ],
+        "addressStr": [
+            {
+                "city": "Los Gatos",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [
             627
         ],
@@ -14917,7 +16309,9 @@ staging = [
         "linkedinCompanyProfile": "",
         "crunchbaseCompanyProfile": "",
         "logo": "",
-        "address": [],
+        "address": [
+            "上海浦东新区海科路1288号"
+        ],
         "addressStr": [],
         "saleLeadOwners": [
             716
@@ -14956,8 +16350,16 @@ staging = [
         "linkedinCompanyProfile": "",
         "crunchbaseCompanyProfile": "",
         "logo": "",
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "1111 Polaris Parkway"
+        ],
+        "addressStr": [
+            {
+                "city": "Toronto",
+                "province": "Ontario",
+                "country": "Canada"
+            }
+        ],
         "saleLeadOwners": [
             558
         ],
@@ -15100,7 +16502,9 @@ staging = [
             "REFERRAL",
             "REFERRAL"
         ],
-        "teamMembers": []
+        "teamMembers": [
+            "Keith Johnson II"
+        ]
     },
     {
         "id": 1089,
@@ -15113,8 +16517,16 @@ staging = [
         "linkedinCompanyProfile": "",
         "crunchbaseCompanyProfile": "",
         "logo": "",
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "745 7th Avenue"
+        ],
+        "addressStr": [
+            {
+                "city": "West New York",
+                "province": "New Jersey",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [
             627
         ],
@@ -15209,8 +16621,16 @@ staging = [
         "linkedinCompanyProfile": "",
         "crunchbaseCompanyProfile": "",
         "logo": "",
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "150 Alameda Del Prado"
+        ],
+        "addressStr": [
+            {
+                "city": "Novato",
+                "province": "California",
+                "country": "United States"
+            }
+        ],
         "saleLeadOwners": [
             693
         ],
@@ -15253,7 +16673,9 @@ staging = [
         "linkedinCompanyProfile": "",
         "crunchbaseCompanyProfile": "",
         "logo": "",
-        "address": [],
+        "address": [
+            "中国上海"
+        ],
         "addressStr": [],
         "saleLeadOwners": [
             627
@@ -15312,12 +16734,12 @@ staging = [
             693
         ],
         "clientContact": [
-            "Chien-Liang Chou",
-            "Silvia Zhao"
+            "Silvia Zhao",
+            "Chien-Liang Chou"
         ],
         "estimatedDealTime": [
-            "2021-05-31T00:00:00Z",
-            "2021-11-30T00:00:00Z"
+            "2021-11-30T00:00:00Z",
+            "2021-05-31T00:00:00Z"
         ],
         "accountProgress": [
             0.25,
@@ -15328,22 +16750,24 @@ staging = [
             "Genaral Recruiting (FTE)",
             "RPO",
             "Retainer Search",
-            "Recruiting",
-            "Genaral Recruiting (FTE)",
-            "RPO",
-            "Retainer Search",
             "IT Consulting",
             "General Staffing (Contract)",
             "Staffing-SOW ",
             "BPO",
             "Software Outsourcing",
-            "PayRolling"
+            "PayRolling",
+            "Recruiting",
+            "Genaral Recruiting (FTE)",
+            "RPO",
+            "Retainer Search"
         ],
         "leadSource": [
             "LINKED_IN",
             "LINKED_IN"
         ],
-        "teamMembers": []
+        "teamMembers": [
+            "Keith Johnson II"
+        ]
     },
     {
         "id": 1095,
@@ -15604,8 +17028,16 @@ staging = [
         "linkedinCompanyProfile": "",
         "crunchbaseCompanyProfile": "",
         "logo": "",
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "205 wellington street west"
+        ],
+        "addressStr": [
+            {
+                "city": "Toronto",
+                "province": "Ontario",
+                "country": "Canada"
+            }
+        ],
         "saleLeadOwners": [
             627
         ],
@@ -15648,8 +17080,16 @@ staging = [
         "linkedinCompanyProfile": "",
         "crunchbaseCompanyProfile": "",
         "logo": "",
-        "address": [],
-        "addressStr": [],
+        "address": [
+            "241 spadina avenue"
+        ],
+        "addressStr": [
+            {
+                "city": "Toronto",
+                "province": "Ontario",
+                "country": "Canada"
+            }
+        ],
         "saleLeadOwners": [
             627
         ],
@@ -16124,17 +17564,17 @@ staging = [
         "crunchbaseCompanyProfile": "",
         "logo": "",
         "address": [
-            "5100 Spectrum ",
-            "8 Spadina Ave. Suite 1900, Toronto, ON M5V 0S8"
+            "8 Spadina Ave. Suite 1900, Toronto, ON M5V 0S8",
+            "5100 Spectrum "
         ],
         "addressStr": [
             {
-                "city": "Mississauga",
+                "city": "Toronto",
                 "province": "Ontario",
                 "country": "Canada"
             },
             {
-                "city": "Toronto",
+                "city": "Mississauga",
                 "province": "Ontario",
                 "country": "Canada"
             }
@@ -16233,7 +17673,9 @@ staging = [
             "LINKED_IN",
             "LINKED_IN"
         ],
-        "teamMembers": []
+        "teamMembers": [
+            "Keith Johnson II"
+        ]
     },
     {
         "id": 1118,
@@ -16554,18 +17996,18 @@ staging = [
         "clientContact": [
             "Nik Khosla",
             "Shawna Clauser",
-            "Greg McCormick",
-            "Annie Heath",
             "Rachel Book",
-            "Justin Corona"
+            "Justin Corona",
+            "Greg McCormick",
+            "Annie Heath"
         ],
         "estimatedDealTime": [
             "2021-10-01T00:00:00Z",
             "2021-08-31T00:00:00Z",
-            "2021-09-01T00:00:00Z",
-            "2021-12-01T00:00:00Z",
             "2021-08-31T00:00:00Z",
-            "2021-09-01T00:00:00Z"
+            "2021-09-01T00:00:00Z",
+            "2021-09-01T00:00:00Z",
+            "2021-12-01T00:00:00Z"
         ],
         "accountProgress": [
             0.25,
@@ -16645,7 +18087,9 @@ staging = [
             "LINKED_IN",
             "LINKED_IN"
         ],
-        "teamMembers": []
+        "teamMembers": [
+            "Keith Johnson II"
+        ]
     },
     {
         "id": 1128,
@@ -16669,39 +18113,42 @@ staging = [
             }
         ],
         "saleLeadOwners": [
-            429,
-            919
+            919,
+            429
         ],
         "clientContact": [
-            "Amanda",
-            "Cissy ZHAO"
+            "Cissy ZHAO",
+            "Amanda"
         ],
         "estimatedDealTime": [
-            "2021-05-18T00:00:00Z",
-            "2023-06-14T00:00:00Z"
+            "2023-06-14T00:00:00Z",
+            "2021-05-18T00:00:00Z"
         ],
         "accountProgress": [
-            0.0,
-            0.75
+            0.75,
+            0.0
         ],
         "serviceTypeNames": [
+            "Recruiting",
+            "Genaral Recruiting (FTE)",
+            "RPO",
+            "Retainer Search",
+            "Campus Recruiting",
             "IT Consulting",
             "General Staffing (Contract)",
             "Staffing-SOW ",
             "BPO",
             "Software Outsourcing",
-            "PayRolling",
-            "Recruiting",
-            "Genaral Recruiting (FTE)",
-            "RPO",
-            "Retainer Search",
-            "Campus Recruiting"
+            "PayRolling"
         ],
         "leadSource": [
-            "LINKED_IN",
-            "REFERRAL"
+            "REFERRAL",
+            "LINKED_IN"
         ],
-        "teamMembers": []
+        "teamMembers": [
+            "Frank Ren",
+            "Lois Chen"
+        ]
     },
     {
         "id": 1129,
@@ -16730,14 +18177,14 @@ staging = [
             693
         ],
         "clientContact": [
-            "Pamela Fisher",
             "Theresa Bjornsen",
-            "Anthony Carter"
+            "Anthony Carter",
+            "Pamela Fisher"
         ],
         "estimatedDealTime": [
-            "2021-06-01T00:00:00Z",
             "2021-08-01T00:00:00Z",
-            "2021-07-30T00:00:00Z"
+            "2021-07-30T00:00:00Z",
+            "2021-06-01T00:00:00Z"
         ],
         "accountProgress": [
             0.25,
@@ -16781,7 +18228,9 @@ staging = [
             "LINKED_IN",
             "LINKED_IN"
         ],
-        "teamMembers": []
+        "teamMembers": [
+            "Keith Johnson II"
+        ]
     },
     {
         "id": 1130,
@@ -16949,13 +18398,13 @@ staging = [
             693
         ],
         "clientContact": [
-            "Ian Cowen",
             "Luz Silva",
+            "Ian Cowen",
             "Kim Wagner"
         ],
         "estimatedDealTime": [
-            "2021-08-02T00:00:00Z",
             "2021-06-30T00:00:00Z",
+            "2021-08-02T00:00:00Z",
             "2021-06-30T00:00:00Z"
         ],
         "accountProgress": [
@@ -17000,7 +18449,9 @@ staging = [
             "LINKED_IN",
             "LINKED_IN"
         ],
-        "teamMembers": []
+        "teamMembers": [
+            "Keith Johnson II"
+        ]
     },
     {
         "id": 1135,
@@ -17030,13 +18481,13 @@ staging = [
         ],
         "clientContact": [
             "Natasha H",
-            "Bo Young Lee",
-            "Pavel Kalinin"
+            "Pavel Kalinin",
+            "Bo Young Lee"
         ],
         "estimatedDealTime": [
             "2021-05-31T00:00:00Z",
-            "2021-07-30T00:00:00Z",
-            "2021-09-01T00:00:00Z"
+            "2021-09-01T00:00:00Z",
+            "2021-07-30T00:00:00Z"
         ],
         "accountProgress": [
             0.25,
@@ -17080,7 +18531,9 @@ staging = [
             "LINKED_IN",
             "LINKED_IN"
         ],
-        "teamMembers": []
+        "teamMembers": [
+            "Keith Johnson II"
+        ]
     },
     {
         "id": 1136,
@@ -17948,7 +19401,9 @@ staging = [
             "LINKED_IN",
             "LINKED_IN"
         ],
-        "teamMembers": []
+        "teamMembers": [
+            "Keith Johnson II"
+        ]
     },
     {
         "id": 1158,
@@ -21622,8 +23077,6 @@ staging = [
             "PERSONAL_NETWORK"
         ],
         "teamMembers": [
-            "Bruce Cao",
-            "Nana Mei",
             "Phoebe Ke",
             "Wilson Wei",
             "Savanna Li",
@@ -21631,7 +23084,9 @@ staging = [
             "Felton van",
             "Lydia Dai",
             "Elmer Zhu",
-            "Martin Ma"
+            "Martin Ma",
+            "Bruce Cao",
+            "Nana Mei"
         ]
     },
     {
@@ -22100,8 +23555,8 @@ staging = [
         ],
         "saleLeadOwners": [
             558,
-            558,
-            451
+            451,
+            558
         ],
         "clientContact": [
             "Amber",
@@ -22176,10 +23631,10 @@ staging = [
             "PERSONAL_NETWORK"
         ],
         "teamMembers": [
-            "Shirley yao",
             "Mary Li",
             "Zora Zhao",
-            "George Zhu"
+            "George Zhu",
+            "Shirley yao"
         ]
     },
     {
@@ -22801,7 +24256,9 @@ staging = [
             "PERSONAL_NETWORK",
             "PERSONAL_NETWORK"
         ],
-        "teamMembers": []
+        "teamMembers": [
+            "Gabriel Ribeiro"
+        ]
     },
     {
         "id": 1466,
@@ -25531,9 +26988,9 @@ staging = [
             "PERSONAL_NETWORK"
         ],
         "teamMembers": [
-            "Monica Zhang",
             "Yuqi Jiang",
-            "Chris Yao"
+            "Chris Yao",
+            "Monica Zhang"
         ]
     },
     {
@@ -26261,9 +27718,9 @@ staging = [
             "LINKED_IN"
         ],
         "teamMembers": [
-            "Timothy yang",
             "Adeline Liang",
-            "Leo Zheng"
+            "Leo Zheng",
+            "Timothy yang"
         ]
     },
     {
@@ -27312,9 +28769,9 @@ staging = [
             "REFERRAL"
         ],
         "teamMembers": [
+            "Sylvia Xuan",
             "Ria Dey",
-            "Gabriella Selestiyanta",
-            "Sylvia Xuan"
+            "Gabriella Selestiyanta"
         ]
     },
     {
@@ -28588,9 +30045,9 @@ staging = [
             "LINKED_IN"
         ],
         "teamMembers": [
-            "Gabriel Ribeiro",
             "Marc Belanger",
-            "Guillaume Dion"
+            "Guillaume Dion",
+            "Gabriel Ribeiro"
         ]
     },
     {
@@ -28618,8 +30075,8 @@ staging = [
             908
         ],
         "clientContact": [
-            "Fabio Suizu",
-            "Victor Vullierme"
+            "Victor Vullierme",
+            "Fabio Suizu"
         ],
         "estimatedDealTime": [
             "2023-01-09T00:00:00Z"
@@ -28968,22 +30425,28 @@ staging = [
     },
     {
         "id": 2047,
-        "companyName": "测试勿动",
+        "companyName": "不想创建了",
         "industry": "AI",
-        "website": "http://www.xxxxxxcc.com",
-        "fortuneRank": null,
-        "staffSizeType": null,
-        "businessRevenue": null,
-        "linkedinCompanyProfile": "",
-        "crunchbaseCompanyProfile": "",
+        "website": "www.baidu.com",
+        "fortuneRank": "FORTUNE_500",
+        "staffSizeType": "FROM_1_TO_10",
+        "businessRevenue": "ONE_MILLION_TO_TEN_MILLION",
+        "linkedinCompanyProfile": "213123sad",
+        "crunchbaseCompanyProfile": "2312312asd",
         "logo": null,
         "address": [
-            "wuhan"
+            "3412312",
+            "www.baidu.com"
         ],
         "addressStr": [
             {
                 "city": "Wuhan",
                 "province": "Hubei",
+                "country": "China"
+            },
+            {
+                "city": "Wuhai",
+                "province": "Inner Mongolia",
                 "country": "China"
             }
         ],
@@ -28994,14 +30457,14 @@ staging = [
         "serviceTypeNames": [],
         "leadSource": [],
         "teamMembers": [
-            "wan liang"
+            "Alesia Xu"
         ]
     },
     {
         "id": 2049,
-        "companyName": "ffff",
-        "industry": "AI",
-        "website": "www.baidu.com",
+        "companyName": "atest company01 1117",
+        "industry": "AUTOMOTIVE",
+        "website": "atestcompany011117.com",
         "fortuneRank": null,
         "staffSizeType": null,
         "businessRevenue": null,
@@ -29009,46 +30472,23 @@ staging = [
         "crunchbaseCompanyProfile": "",
         "logo": null,
         "address": [
-            "hubeiwuahn"
+            "Mashantucket, Connecticut"
         ],
         "addressStr": [
             {
-                "city": "Wuhan",
-                "province": "Hubei",
-                "country": "China"
+                "city": "Mashantucket",
+                "province": "Connecticut",
+                "country": "United States"
             }
         ],
-        "saleLeadOwners": [
-            130,
-            580
-        ],
-        "clientContact": [
-            "Aaa Bbb",
-            "Aaa Bbb"
-        ],
-        "estimatedDealTime": [
-            "2022-11-07T00:00:00Z",
-            "2022-11-21T00:00:00Z"
-        ],
-        "accountProgress": [
-            0.0,
-            0.0
-        ],
-        "serviceTypeNames": [
-            "Recruiting",
-            "Genaral Recruiting (FTE)",
-            "RPO",
-            "Retainer Search",
-            "General Staffing (Contract)",
-            "Staffing-SOW "
-        ],
-        "leadSource": [
-            "EVENT",
-            "REFERRAL"
-        ],
+        "saleLeadOwners": [],
+        "clientContact": [],
+        "estimatedDealTime": [],
+        "accountProgress": [],
+        "serviceTypeNames": [],
+        "leadSource": [],
         "teamMembers": [
-            "Agnes Ma",
-            "Aiden Zeng"
+            "Amos Xia"
         ]
     }
 ]

@@ -8,7 +8,8 @@ import client_overview_prod_jsonlist
 data1 = client_overview_prod_jsonlist.prod
 import client_overview_V3_jsonlist
 data2 = client_overview_V3_jsonlist.staging
-
+print(len(data1))
+print(len(data2))
 Authorization = V1_get_Authorization.get_V1Authorization()
 header = {'Authorization': Authorization}
 proxies = {
@@ -20,7 +21,7 @@ def get_difference(key_):
     print(key_)
     f = open('client_overview_log.csv', 'a', encoding='utf-8', newline='')
     csvfile = csv.writer(f)
-    for i in range(1,1009):
+    for i in range(1,len(data1)):
         if data1[i][key_] != data2[i][key_]:
             while True:
                 try:

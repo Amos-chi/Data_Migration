@@ -17,7 +17,12 @@ def get_Authorization():
     }
 
     #sission_ = requests.session()
-    resp = requests.post(url, json= user, proxies=proxies)
+    while True:
+        try:
+            resp = requests.post(url, json= user, proxies=proxies)
+            break
+        except Exception as e:
+            print(e)
     Authorization = "Bearer " + resp.json()['credential']['access_token']
     #print(Authorization)
     return Authorization
