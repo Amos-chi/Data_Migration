@@ -9,10 +9,7 @@ proxies = {
     }
 
 def run(method, url, headers,payload = None, proxies = proxies, showInfo = 'false'):
-    url = url
-    payload = payload
-    headers = headers
-    proxies = proxies
+
     while True:
         try:
             resp = getattr(requests,method)(url, headers = headers, proxies = proxies, json = payload)
