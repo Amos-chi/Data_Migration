@@ -7,7 +7,7 @@ key基本相同 直接比较两个返回的dic
 import requests
 
 import V1_get_Authorization
-from V3 import getAuthorization
+from V3 import getV3ProdAuthorization
 
 proxies = {
     'http': 'http://127.0.0.1:4780',
@@ -23,7 +23,7 @@ pair = {
 while True:
     try:
         V1Authorization = V1_get_Authorization.get_V1Authorization()
-        V3Authorization = getAuthorization.get_Authorization()
+        V3Authorization = getV3ProdAuthorization.get_Authorization()
         V1header = {'Authorization': V1Authorization}
         V3header = {'Authorization': V3Authorization}
 

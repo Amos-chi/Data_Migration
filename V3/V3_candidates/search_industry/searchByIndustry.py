@@ -2,9 +2,9 @@ import json
 
 import requests
 
-from V3 import getAuthorization
+from V3 import getV3ProdAuthorization
 
-Authorization = getAuthorization.get_Authorization()
+Authorization = getV3ProdAuthorization.get_Authorization()
 header = {'Authorization' : Authorization,
           'Content-Type': 'application/json',
           'Cookie': 'JSESSIONID=3fa46120-f0f5-4589-b1cc-53480edb3f73'}

@@ -2,7 +2,7 @@ import json
 
 import requests
 
-from V3 import getAuthorization
+from V3 import getV3ProdAuthorization
 
 
 def getV1Prospect():
@@ -16,7 +16,7 @@ def getV1Prospect():
     f.write(json.dumps(resp.json(), indent= 4, ensure_ascii=False))
 
 def getV3Prospect():
-    Authorization = getAuthorization.get_Authorization()
+    Authorization = getV3ProdAuthorization.get_Authorization()
     header = { 'Authorization' : Authorization }
     url = 'https://api-staging.hitalentech.com:8888/company/api/v3/company/prospects/search?mine=false&page=1&size=600'
     data = {"companyName":None,"accountManagers":None,"companyClientLevelType":None,"serviceTypes":None,"active":None,"industry":None,"countries":None}

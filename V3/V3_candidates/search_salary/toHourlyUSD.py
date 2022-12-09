@@ -1,4 +1,4 @@
-from V3 import getAuthorization
+from V3 import getV3ProdAuthorization
 from V3.V3_candidates.search_salary.exchange_rate import Rate
 
 rate = Rate()
@@ -65,6 +65,6 @@ def to_HourlyUSD(currencys,timeUnit,min,max,header):
     return (ushourlymin,ushourlymax)
 
 if __name__ == '__main__':
-    Authorization = getAuthorization.get_Authorization()
+    Authorization = getV3ProdAuthorization.get_Authorization()
     header = {'Authorization': Authorization}
     to_HourlyUSD('CAD', 'HOUR', 100, 1000, header)

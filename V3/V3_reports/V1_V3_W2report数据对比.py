@@ -2,7 +2,7 @@
 import requests
 
 import V1_get_Authorization
-from V3 import getAuthorization
+from V3 import getV3ProdAuthorization
 
 proxies = {
     'http': 'http://127.0.0.1:4780',
@@ -26,7 +26,7 @@ def getV1data():
 def getV3data():
     url = 'https://api-staging.hitalentech.com:8888/report/api/v3/report/p2-pipeline-analytics-by-company?fromDate=2022-09-30T16:00:00.000Z&toDate=2022-10-26T15:59:59.999Z&userRole=&userId=&jobCountry='
 
-    Authorization = getAuthorization.get_Authorization()
+    Authorization = getV3ProdAuthorization.get_Authorization()
     header = {'Authorization': Authorization}
     resp = requests.get(url, headers=header, proxies=proxies)
     #print(resp.status_code)

@@ -1,14 +1,14 @@
 # Time : 2022/11/2 15:15
 import requests
 
-from V3 import getAuthorization
+from V3 import getV3ProdAuthorization
 
 proxies = {
     'http': 'http://127.0.0.1:4780',
     'https': 'http://127.0.0.1:4780'
 }
 url = 'https://api-staging.hitalentech.com:8888/user/api/v3/users/all-brief'
-Authorization = getAuthorization.get_Authorization()
+Authorization = getV3ProdAuthorization.get_Authorization()
 header = {'Authorization' : Authorization}
 def getactiveUsers():
     while True:

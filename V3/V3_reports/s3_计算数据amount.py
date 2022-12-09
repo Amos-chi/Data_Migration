@@ -1,5 +1,5 @@
 # Time : 2022/11/1 10:04
-from V3 import V3_getActiveUser, getAuthorization
+from V3 import V3_getActiveUser, getV3ProdAuthorization
 
 null = None
 
@@ -11,7 +11,7 @@ proxies = {
 def V3():
     url = 'https://api-staging.hitalentech.com:8888/report/api/v3/report/dormant/applications'
     payload = {"teamId":[],"userId":"","status":"SUBMIT_TO_JOB"}
-    Authorization = getAuthorization.get_Authorization()
+    Authorization = getV3ProdAuthorization.get_Authorization()
     header = {'Authorization': Authorization}
 
     import requests

@@ -6,14 +6,14 @@ from selenium.webdriver.chrome.options import Options
 from selenium import webdriver
 from selenium.webdriver.support.wait import WebDriverWait
 
-from V3 import getAuthorization
+from V3 import getV3ProdAuthorization
 
 '''
     在cmd 命令行窗口运行: (端口号可以设置任意闲置端口)
     chrome.exe --remote-debugging-port=9222 --user-data-dir="C:\Chromedriver\chromeprofile"
 '''
 
-Authorization = getAuthorization.get_Authorization()
+Authorization = getV3ProdAuthorization.get_Authorization()
 header = {'Authorization': Authorization}
 
 

@@ -3,7 +3,7 @@ import csv
 
 import requests
 
-from V3 import getAuthorization
+from V3 import getV3ProdAuthorization
 import V1_get_Authorization
 '''
     直接运行, 不需要改参数
@@ -85,7 +85,7 @@ if __name__ == '__main__':
     while True:
         try:
             V1Authorization = V1_get_Authorization.get_V1Authorization()
-            V3Authorization = getAuthorization.get_Authorization()
+            V3Authorization = getV3ProdAuthorization.get_Authorization()
 
             dataV1 = getV1data(V1Authorization)
             break

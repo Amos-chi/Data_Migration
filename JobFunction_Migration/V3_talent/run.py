@@ -1,6 +1,6 @@
 import json
 import os
-from V3 import getAuthorization
+from V3 import getV3ProdAuthorization
 import requests
 
 '''
@@ -11,7 +11,7 @@ file_dir = r'E:\Program Files (x86)\PyCharm\Amos-chi\data migration\JobFunction_
 duplication_url = r'https://api-staging.hitalentech.com:8888/talent/api/v3/talents/search-by-contacts-and-similarity'
 req_url = r'https://api-staging.hitalentech.com:8888/talent/api/v3/talents'
 
-Authorization = getAuthorization.get_Authorization()
+Authorization = getV3ProdAuthorization.get_Authorization()
 header = { 'Authorization' : Authorization }
 
 #读取文件列表

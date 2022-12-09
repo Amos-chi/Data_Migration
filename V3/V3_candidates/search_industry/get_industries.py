@@ -2,9 +2,9 @@ import json
 
 import requests
 
-from V3 import getAuthorization
+from V3 import getV3ProdAuthorization
 
-Authorization = getAuthorization.get_Authorization()
+Authorization = getV3ProdAuthorization.get_Authorization()
 header = {'Authorization' : Authorization}
 url = 'https://api-staging.hitalentech.com:8888/job/api/v3/dict/industries?type=EN'
 resp = requests.get(url, headers= header)

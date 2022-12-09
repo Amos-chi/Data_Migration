@@ -2,7 +2,7 @@ from enum import Enum
 
 import requests
 
-from V3 import getAuthorization
+from V3 import getV3ProdAuthorization
 
 
 class Rate():

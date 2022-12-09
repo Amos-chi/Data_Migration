@@ -1,6 +1,6 @@
 import json
 import os
-from V3 import getAuthorization
+from V3 import getV3ProdAuthorization
 import requests
 
 '''
@@ -10,7 +10,7 @@ import requests
 file_dir = r'E:\Program Files (x86)\PyCharm\Amos-chi\data migration\JobFunction_Migration\V3_job\uploadJsonData'
 req_url = 'https://api-staging.hitalentech.com:8888/job/api/v3/jobs'
 
-Authorization = getAuthorization.get_Authorization()
+Authorization = getV3ProdAuthorization.get_Authorization()
 header = {
     'Authorization':  Authorization,
     'Content-Type': 'application/json'

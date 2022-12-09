@@ -1,7 +1,7 @@
 import json
 
 import requests
-from V3 import getAuthorization
+from V3 import getV3ProdAuthorization
 from V3.V3_candidates.search_salary import lang
 from V3.V3_candidates.search_salary.exchange_rate import Rate
 
@@ -10,7 +10,7 @@ url = 'https://api-staging.hitalentech.com:8888/talent/api/v3/talents/search?pag
 f = open('demo_salary_candidate.txt', 'r', encoding='utf-8')
 data = json.load(f)
 
-Authorization = getAuthorization.get_Authorization()
+Authorization = getV3ProdAuthorization.get_Authorization()
 header = {'Authorization' : Authorization}
 
 def tSalary(currencys,timeUnit,min,max):

@@ -17,6 +17,13 @@
             </Attribute>
           </value>
         </entry>
+        <entry key="\V3\V3_company\11.15\client_overview_log.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value=":" />
+            </Attribute>
+          </value>
+        </entry>
         <entry key="\V3\V3_company\client_list_log.csv">
           <value>
             <Attribute>
@@ -52,7 +59,21 @@
             </Attribute>
           </value>
         </entry>
-        <entry key="\aaaa.csv">
+        <entry key="\V3\V3_jobs\location.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\V3\V3_reports\a.csv">
+          <value>
+            <Attribute>
+              <option name="separator" value="," />
+            </Attribute>
+          </value>
+        </entry>
+        <entry key="\V3\V3_reports\aa.csv">
           <value>
             <Attribute>
               <option name="separator" value="," />
